@@ -7,6 +7,13 @@
  * Licensed under the MIT License
  */
 
+mb_internal_encoding("UTF-8");
+$input=getenv('POPCLIP_TEXT');
+
+$result=pangu($input);
+
+echo $result;
+
 function pangu($text) {
   $cjk = '' .
          '\x{2e80}-\x{2eff}' .

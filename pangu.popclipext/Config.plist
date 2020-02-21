@@ -8,20 +8,20 @@
 			<key>After</key>
 			<string>paste-result</string>
 			<key>Image File</key>
-			<string>uppercase.png</string>
+			<string>pangu.png</string>
 			<key>Script Interpreter</key>
 			<string>/usr/bin/php</string>
 			<key>Shell Script File</key>
-			<string>uppercase.php</string>
+			<string>pangu.php</string>
 			<key>Title</key>
-			<string>Uppercase</string>
+			<string>Pangu</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Make the selected text all uppercase.</string>
+	<string>Make the selected text add space.</string>
 	<key>Extension Identifier</key>
-	<string>com.pilotmoon.popclip.extension.uppercase</string>
+	<string>com.deppwang.popclip.extension.pangu</string>
 	<key>Extension Name</key>
-	<string>Uppercase</string>
+	<string>Pangu</string>
 </dict>
 </plist>
