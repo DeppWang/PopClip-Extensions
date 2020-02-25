@@ -1,9 +1,5 @@
-Alfred extensions of PopClip.
+YDAlfred extensions of PopClip.
 
-### 19 May 2016
+### Use
 
-Added support for Alfred 3.
-
-### 20 May 2016
-
-Fixed bug where user text was not properly escaped for AppleScript.
+结合 Alfred3 [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow) Workflow使用
