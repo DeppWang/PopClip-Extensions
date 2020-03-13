@@ -65,7 +65,10 @@ if ($input = getenv('POPCLIP_TEXT')) {
       return $carry;
     }
   }, '');
-
+  
+  if (strlen($input) < 20) {
+     shell_exec('say "'.getenv('POPCLIP_TEXT').'"');
+  }
 }
 
 // shell_exec('say "'.getenv('POPCLIP_TEXT').'"');
