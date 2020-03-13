@@ -1,4 +1,4 @@
-PopClip 插件列表
+个人常用 PopClip 插件列表
 
 - [Google Translate](Google-Translate)
 - [YDAlfred](#YDAlfred)
@@ -13,7 +13,7 @@ PopClip 插件列表
 - 速度快
 - 小于 20 个字符，调用系统语音，自动发音
 
-[插件来源](https://github.com/thang-nm/Google-Translate.popclipext)[插件来源](https://github.com/thang-nm/Google-Translate.popclipext)
+[插件来源](https://github.com/thang-nm/Google-Translate.popclipext)
 
 ## YDAlfred
 
@@ -23,7 +23,7 @@ PopClip 插件列表
 
 ## Pangu
 
-全选时才有意义，避免使用 Alfred
+全选时还能使用 popclip 时才有意义，节省使用 Alfred 的复制粘贴
 
  作用
 
