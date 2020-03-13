@@ -42,3 +42,7 @@ copy 是调用系统的 copy
 
 POPCLIP_TEXT 是将 copy 后的文字进行了处理？还是没有使用系统的 copy？
 
+---
+
+- https://github.com/pilotmoon/PopClip-Extensions
+- https://pilotmoon.com/popclip/extensions/
