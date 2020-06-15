@@ -28,7 +28,7 @@ Google-Translate 优点：
 
 缺点：
 
-- 有时候翻译不准
+- 选择文字较长时有时候翻译不准
 
 ## TRAlfred
 
