@@ -9,7 +9,7 @@ $bid=trim(force_string(`./SelectApp ${alfred4bid} ${alfred3bid} ${alfred2bid}`))
 if(strlen($bid)>0) {
 	// get the popclip text
 	$popclip_text=applescript_safe(trim(force_string(getenv('POPCLIP_TEXT'))));	
-	$yd = 'yd ';
+	$yd = 'tr';
 	$applescript=escapeshellarg("tell application id \"$bid\" to search \"$yd $popclip_text\"");
 	$result=`echo $applescript | osascript -`;
 }

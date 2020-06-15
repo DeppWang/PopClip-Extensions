@@ -5,23 +5,21 @@
 	<key>Actions</key>
 	<array>
 		<dict>
-			<key>After</key>
-			<string>paste-result</string>
 			<key>Image File</key>
-			<string>pangu.png</string>
-			<key>Script Interpreter</key>
-			<string>/usr/bin/php</string>
+			<string>bookicon.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,200}$</string>
 			<key>Shell Script File</key>
-			<string>pangu.php</string>
+			<string>dict.sh</string>
 			<key>Title</key>
-			<string>Pangu</string>
+			<string>Dictionary</string>
 		</dict>
 	</array>
-	<key>Extension Description</key>
-	<string>Make the selected text add space.</string>
 	<key>Extension Identifier</key>
-	<string>com.deppwang.popclip.extension.pangu</string>
+	<string>wang.depp.popclip.extension.dictionary2</string>
 	<key>Extension Name</key>
-	<string>Pangu</string>
+	<string>Dictionary2</string>
+	<key>Version</key>
+	<integer>2</integer>
 </dict>
 </plist>
